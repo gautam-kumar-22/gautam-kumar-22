@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gautam Kumar. I have 9 years of experience in software development including Python, Django, Machine Learning, Data Science, Php, Julia, blockchain.
+- 👋 Hi, I’m Gautam Kumar. I have 10 years of experience in software development including Python, Django, Machine Learning, Data Science, Php, Julia, blockchain.
 - 👀 I’m interested in Robotics So,
 - 🌱 I’m currently learning ROS.
 - 💞️ I’m looking to collaborate on my ongoing project related to bloackchain.
